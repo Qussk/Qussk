@@ -2,7 +2,7 @@
 
 🌱 기본에 충실한 iOS 개발자되기 
   
-- 🔭지금은 CS지식, RxSwift, refactoring, swiftUI 공부중!!
+- 🔭지금은 CS지식, MVVM, RxSwift, refactoring, swiftUI 공부중!!
 
 
 ### 블로그
