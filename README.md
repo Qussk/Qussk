@@ -2,9 +2,9 @@
 
 🌱 기본에 충실한 iOS 개발자되기 
 
-지금은 CS공부중!!
+지금은 RxSwift, MVVM, CS공부중!!
 
-- 🔭관심 있어요 : MVVM, RxSwift, refactoring, swiftUI..
+- 🔭관심 있어요 : refactoring, swiftUI, combine..
 
 ### 블로그
 
