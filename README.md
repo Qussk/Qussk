@@ -13,3 +13,7 @@ https://qussk.github.io
 
 ### course 
 - fastcampus(패캠)iOS개발 스쿨 ```2020.04 ~2020.10``` : 총 6개월과정
+
+
+![snake gif](https://github.com/Qussk/Qussk/blob/output/github-contribution-grid-snake.svg)
+
