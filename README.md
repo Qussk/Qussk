@@ -20,8 +20,7 @@
    
 
 ## 📊 GitHub 통계
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qussk&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qussk&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 ## 📫 연락처
 - 이메일: by1106007@gmail.com
