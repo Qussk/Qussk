@@ -9,7 +9,7 @@
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-## 🛠️ 기술 스택
+### 🛠️ 기술 스택
 
 - **프로그래밍 언어**: Swift
 - **개발 도구**: Xcode
@@ -19,13 +19,14 @@
 - **자동화 도구**: tuist
 
    
-## 🔭 State
+### 🔭 State
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qussk&layout=compact&theme=radical&hide_border=true&langs_count=6)-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Qussk&theme=radical&hide_border=true)
 <!--![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qussk&theme=github)-->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qussk&show_icons=true&theme=radical&hide_border=true&show_rank=false)
 
-## 📫 연락처
+
+### 연락처
 - 이메일: by1106007@gmail.com
 
